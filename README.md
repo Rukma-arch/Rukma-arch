@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rukma Pawar</h1>
+<h3 align="center">"Life Sciences professional transitioning into data analytics with hands-on experience in SQL, Python, Power BI, and Tableau. Passionate about transforming clinical and healthcare data into meaningful insights."</h3>
 
-<!--
-**Rukma-arch/Rukma-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **SQL, SAS, Python**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **Data analytics Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **Data analytics projects which help me get the job in the Data analyst industry as a aspiring career changer**
+
+- 💬 Ask me about **Why I made the decision to switch my career**
+
+- 📫 How to reach me **rukma686@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
