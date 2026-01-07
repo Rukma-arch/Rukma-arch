@@ -13,7 +13,7 @@ Focused on building analytical solutions, dashboards, and data-driven insights.
 - 🔍 Currently building: **Real-world data analytics projects**
 - 🧠 Core skills: **SQL, Python, Power BI, Tableau**
 - 🏥 Domain experience: **Clinical trials, eTMF, data quality & compliance**
-- 🤝 Open to collaborating on **analytics, BI, and healthcare data projects**
+- 🤝 Open to collaborating on **analytics, BI, and data projects**
 - 📫 Reach me at: **rukma686@gmail.com**
 
 
