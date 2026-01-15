@@ -2,7 +2,7 @@
 Hi 👋, I'm Rukma Pawar</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL • Python • Power BI • Tableau |
+Data Analyst | SQL • Python • Power BI • Tableau |
 
 
 <p align="center">
